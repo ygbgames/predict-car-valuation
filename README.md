@@ -39,7 +39,7 @@ Before modeling, the raw data underwent a rigorous pipeline to ensure high-quali
 3.  **Exploratory Data Analysis (EDA):** Visualized price distributions and feature correlations to understand market drivers.
 
 > **Visual Insight:**
-> ![Correlation Heatmap](https://via.placeholder.com/800x400.png?text=Placeholder:+Correlation+Heatmap+from+Notebook)
+> ![Correlation Heatmap](https://github.com/ygbgames/predict-car-valuation/blob/main/Correlation.png)
 > *Figure 1: Correlation analysis showing the relationship between car age, mileage, and price.*
 
 ---
